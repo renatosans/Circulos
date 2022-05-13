@@ -1,0 +1,19 @@
+*{
+    border: 0;
+    padding: 0;
+}
+
+body{
+    color: black;
+    background-size: 100%;
+    background-image: url('../images/wallpaper.jpg');
+}
+
+h1{
+    color:blue;
+}
+
+.container{
+    border: 50px;
+    text-align: center;
+}
