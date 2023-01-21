@@ -25,9 +25,9 @@
     .circle{
         position: fixed;
         border-style: solid;
-        border-width: 10px;
+        border-width: 8px;
         border-radius: 50%;
-        background-color: gray;
+        background-color: black;
         opacity: 50%;
     }
 </style>
